@@ -1,5 +1,6 @@
-# Music-DJ-App
-Es un juego musical: presionando una tecla devuelve un sonido, éstos pueden ensamblarse y crear un sound track.
+# Music-DJ-App 🎼
+
+Es un juego musical: presionando una tecla devuelve un sonido, éstos pueden ensamblarse y crear un sound track. 🔊 🎧
 Ideal para compartir con niños de todas las edades!
 
 Está creado con HTML5, CSS y Javascript.
@@ -7,7 +8,7 @@ Está creado con HTML5, CSS y Javascript.
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 
 
-Se puede jugar haciendo click en el siguiente link: https://musicdjapp.netlify.app/
+Se puede jugar haciendo click en el siguiente link: https://musicdjapp.netlify.app/ 🤹‍♂️
 
 
 ## Contact
