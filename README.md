@@ -1,7 +1,8 @@
 # Music-DJ-App 🎵 🎶
 
-🎧 Es un juego musical: presionando una tecla devuelve un sonido, éstos pueden ensamblarse y crear un sound track. 
-Ideal para compartir con niños de todas las edades!
+🎧 Es un juego musical: presionando una tecla devuelve un sonido, el desafío será crear un soundtrack!
+
+Ideal para compartir con niños de todas las edades.
 
 
 Fue creado aplicando HTML5, CSS y Javascript.
