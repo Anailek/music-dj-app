@@ -4,7 +4,8 @@
 Ideal para compartir con niños de todas las edades!
 
 
-Fue creado con HTML5, CSS y Javascript.
+Fue creado aplicando HTML5, CSS y Javascript.
+
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 
@@ -13,6 +14,7 @@ Fue creado con HTML5, CSS y Javascript.
 
 
 🔊 Se puede jugar haciendo click en el siguiente link: https://musicdjapp.netlify.app/ 
+
 
 
 ## Contact
